@@ -40,12 +40,13 @@ export default class AddActs extends Component {
                         <input ref="quota" type="text" className="validate" />
                         <label htmlFor="quota">Quota</label>
                     </div>
-                        <label htmlFor="type">Unit</label>
-                        <select class="browser-default" ref="type">
-                            <option value="" disable selected>Unit</option>
+                    <div className="input-field col s6">
+                        <select ref="type" className="browser-default">
+                            <option value="people">People</option>
                             <option value="cash">Cash</option>
                             <option value="amount">Amount</option>
                         </select>
+                    </div>
                 </div>
                 <div className="row">
                     <button className="waves-effect waves-light btn" type="submit" name="action">Submit</button>

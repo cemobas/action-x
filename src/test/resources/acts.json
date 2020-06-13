@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5ee4e50e5c66a3a5df8577b0"},"title":"Workers needed for renovation","text":"We've an on-going renovation and apparently more workers needed to finish the work on time.","quota":10,"type":"people","current":3,"tags":["lorem","ipsum"]}
+{"_id":{"$oid":"5ee4e5c379721d19116d3a99"},"title":"Lorem ipsum needed","text":"We need more lorem ipsums!!!","quota":3,"type":"amount","_class":"act"}
+{"_id":{"$oid":"5ee4e5d779721d19116d3a9a"},"title":"More lorem ipsumsss","text":"moooooreee","quota":5,"type":"","_class":"act"}
+{"_id":{"$oid":"5ee4e67379721d19116d3a9b"},"title":"People who can trash lorem ipsum","text":"We need people to carry all the lorem ipsums inserted","quota":5,"type":"people","_class":"act"}
